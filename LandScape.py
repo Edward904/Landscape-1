@@ -30,5 +30,20 @@ ed.forward(500)
 ed.end_fill()
 ed.pendown()
 
+edd.penup()
+edd.begin_fill()
+edd.color("sky blue")
+edd.forward(500)
+edd.left(90)
+edd.forward(1000)
+edd.left(90)
+edd.forward(1000)
+edd.left(90)
+edd.forward(500)
+edd.forward(500)
+edd.end_fill()
+edd.pendown()
+
+
 
 turtle.exitonclick()
