@@ -64,6 +64,13 @@ edddd.goto(375, 210)
 edddd.circle(100)
 edddd.end_fill()
 
+eddddd.penup()
+eddddd.begin_fill()
+eddddd.color("yellow")
+eddddd.goto(-450, 300)
+eddddd.circle(200)
+eddddd.end_fill()
+
 
 
 turtle.exitonclick()
