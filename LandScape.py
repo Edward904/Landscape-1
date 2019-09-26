@@ -44,6 +44,26 @@ edd.forward(500)
 edd.end_fill()
 edd.pendown()
 
+eddd.penup()
+eddd.begin_fill()
+eddd.color("saddle brown")
+eddd.goto(350, 0)
+eddd.left(90)
+eddd.forward(250)
+eddd.right(90)
+eddd.forward(50)
+eddd.right(90)
+eddd.forward(250)
+eddd.end_fill()
+eddd.pendown()
+
+edddd.penup()
+edddd.begin_fill()
+edddd.color("green")
+edddd.goto(375, 210)
+edddd.circle(100)
+edddd.end_fill()
+
 
 
 turtle.exitonclick()
