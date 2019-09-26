@@ -119,16 +119,6 @@ ed.forward(150)
 ed.end_fill()
 ed.pendown()
 
-ed.penup()
-ed.goto(0, 150)
-ed.begin_fill()
-ed.color("firebrick")
-ed.right(225)
-ed.forward(125)
-ed.right(100)
-ed.forward(110)
-ed.end_fill()
-ed.pendown()
 
 
 turtle.exitonclick()
